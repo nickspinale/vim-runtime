@@ -1,0 +1,2 @@
+#!/bin/sh
+curl https://raw.githubusercontent.com/vim/vim/master/runtime/$1
